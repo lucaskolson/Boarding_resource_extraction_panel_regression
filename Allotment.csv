@@ -1,0 +1,261 @@
+Year,Variable, Klamath , Siletz , Umatilla , Warm Springs , Colville , Neah bay , Spokane , Tulalip , Yakima ,Cushman-Taholah
+1911,number_of_allotments,0,0,0,0,0,0,0,0,0,0
+1911,allotted|total_acreage,207374,77442,82156,140044,74271,3728,64794,48331,296407,93757
+1911,unallotted|total_acreage,811802,3365,74618,322760,1297009,19952,82648,1034,796412,168888
+1911,total_reservation_acreage,1019176,80807,156774,462804,1371280,23680,147442,49365,1092819,262645
+1911,patent_in_fee_issues_since_1906|number_of_original_allotment,951, NA ,203,2,20, NA , NA ,1,78,2
+1911,patent_in_fee_issues_since_1906|acreage_original_allotment,61375.97, NA ,15183.31,240,1598.64, NA , NA ,490.21,5731.41,204.5
+1911,patent_in_fee_issues_since_1906|number_of_inherited_land,0, NA ,21,5,0, NA , NA ,1,241,2
+1911,patent_in_fee_issues_since_1906|acreage_inherited_land,0, NA ,1579.67,760,0, NA , NA ,163.85,19860.69,96.95
+1911,patent_in_fee_issues_since_1906|total_number,951, NA ,224,7,20, NA , NA ,2,319,4
+1911,patent_in_fee_issues_since_1906|total_acreage,61375.97, NA ,16762.98,1000,1598.64, NA , NA ,654.06,25592.1,300.45
+1911,patent_in_fee_issues|applications_received,4, NA ,61,0,18, NA , NA ,0,49,0
+1911,patent_in_fee_issues|applications_denied,1, NA ,9,0,3, NA , NA ,0,18,0
+1911,patent_in_fee_issues|applications_approved,3, NA ,52,0,15, NA , NA ,0,31,0
+1911,patent_in_fee_issues|acreage_approved,480, NA ,3223.84,0,1224.6, NA , NA ,0,1878.47,0
+1911,sale_of_noncompetent_land|number_of_tracts,0,2,3, NA ,7, NA , NA ,10,18,1
+1911,sale_of_noncompetent_land|acreage,0,160,194.42, NA ,513.4, NA , NA ,892.67,1367.37,22.1
+1911,sale_of_noncompetent_land|total_proceeds,0,1840,12640.12, NA ,16167.79, NA , NA ,39130.97,37866,200
+1911,sale_of_noncompetent_land|average_price_per_acre,0,11.5,65.01, NA ,33.44, NA , NA ,43.83,27.69,9.05
+1911,sale_of_inherited_land|number_of_tracts,1,8,4, NA ,1, NA , NA ,1,42,1
+1911,sale_of_inherited_land|acreage,160,785.78,160, NA ,80, NA , NA ,164.6,3155.22,72.05
+1911,sale_of_inherited_land|total_proceeds,1200,9571,12220, NA ,3216, NA , NA ,7500,138817,2315.89
+1911,sale_of_inherited_land|average_price_per_acre,7.5,12.18,76.37, NA ,40.2, NA , NA ,45.57,44,32.14
+1911,sale_of_land|total_number_of_tracts,1,10,7, NA ,8, NA , NA ,11,60,2
+1911,sale_of_land|total_acreage,160,945.78,354.42, NA ,593.4, NA , NA ,1057.27,4522,94.15
+1911,sale_of_land|total_proceeds,1200,11411,24860.12, NA ,19383.79, NA , NA ,46630.97,176683,2515.89
+1911,sale_of_land|total_average_price_per_acre,7.5,12.06,70.14, NA ,32.66, NA , NA ,44.15,39.06,27.62
+1912,number_of_allotments,0,0,0,0,0,0,0,0,0,0
+1912,allotted|total_acreage,207374,77442,82156,139884,74271,3728,64794,48331,295767,93757
+1912,unallotted|total_acreage,811802,3365,74618,322920,1297009,19952,82648,1034,797052,168888
+1912,total_reservation_acreage,1019176,80807,156774,462805,1371280,23680,147442,49365,1092819,262645
+1912,patent_in_fee_issues_since_1906|number_of_original_allotment,951,1,204,2,25, NA , NA ,1,107,3
+1912,patent_in_fee_issues_since_1906|acreage_original_allotment,61375,80,12061.98,240,2042, NA , NA ,490.21,7588.65,291
+1912,patent_in_fee_issues_since_1906|number_of_inherited_land,5,0,30,5,0, NA , NA ,1,231,3
+1912,patent_in_fee_issues_since_1906|acreage_inherited_land,800,0,2207.89,760,0, NA , NA ,163.85,18738.51,153.9
+1912,patent_in_fee_issues_since_1906|total_number,956,1,234,7,25, NA , NA ,2,338,6
+1912,patent_in_fee_issues_since_1906|total_acreage,62175.97,80,14269.87,1000,2042, NA , NA ,654.08,26327.16,444.9
+1912,patent_in_fee_issues|applications_received,7,2,16,0,6, NA , NA ,7,8,11
+1912,patent_in_fee_issues|applications_denied,2,1,14,0,3, NA , NA ,7,5,9
+1912,patent_in_fee_issues|applications_approved,5,1,2,0,3, NA , NA ,0,3,2
+1912,patent_in_fee_issues|acreage_approved,800,80,69.42,0,280.75, NA , NA ,0,201.49,107.83
+1912,sale_of_noncompetent_land|number_of_tracts,0,0,1, NA ,2, NA , NA ,1,19,1
+1912,sale_of_noncompetent_land|acreage,0,0,80, NA ,130.81, NA , NA ,40.2,1135.49,40
+1912,sale_of_noncompetent_land|total_proceeds,0,0,4600, NA ,2410, NA , NA ,3100,30088,1400
+1912,sale_of_noncompetent_land|average_price_per_acre,0,0,57.5, NA ,18.42, NA , NA ,77.11,26.49,35
+1912,sale_of_inherited_land|number_of_tracts,4,6,2, NA ,0, NA , NA ,0,24,1
+1912,sale_of_inherited_land|acreage,640,475.03,197.8, NA ,0, NA , NA ,0,2041.88,1
+1912,sale_of_inherited_land|total_proceeds,5920,5392.46,4342, NA ,0, NA , NA ,0,88386,50
+1912,sale_of_inherited_land|average_price_per_acre,9.25,11.35,21.95, NA ,0, NA , NA ,0,43.28,50
+1912,sale_of_land|total_number_of_tracts,4,6,3, NA ,2, NA , NA ,1,43,2
+1912,sale_of_land|total_acreage,640,475.03,277.8, NA ,130.81, NA , NA ,40.2,3177.37,41
+1912,sale_of_land|total_proceeds,5920,5392.46,8942, NA ,2410, NA , NA ,3100,118474,1450
+1912,sale_of_land|total_average_price_per_acre,9.25,11.35,32.19, NA ,18.42, NA , NA ,77.11,37.29,35.3658536585366
+1913,number_of_allotments,0,0,0,0,0,0,0,0,0,0
+1913,allotted|total_acreage,207374,77442,82156,139729,74271,3728,64794,49305,294967,93757
+1913,unallotted|total_acreage,811802,3365,74618,323075,1297009,19952,82648,389,797852,168888
+1913,total_reservation_acreage,1019176,80807,156774,462804,1371280,23680,147442,49694,1092819,262645
+1913,patent_in_fee_issues_since_1906|number_of_original_allotment,952,2,209,2,34, NA ,7,1,112,3
+1913,patent_in_fee_issues_since_1906|acreage_original_allotment,61535.97,120,12318.62,240,3, NA ,780,490.21,7827.43,291
+1913,patent_in_fee_issues_since_1906|number_of_inherited_land,5,0,30,5,7, NA ,0,1,248,3
+1913,patent_in_fee_issues_since_1906|acreage_inherited_land,800,0,2207.89,760,1, NA ,0,163.85,19848.26,153
+1913,patent_in_fee_issues_since_1906|total_number,957,2,239,7,112, NA ,7,2,360,6
+1913,patent_in_fee_issues_since_1906|total_acreage,62335.97,120,14526.51,1000,2785.55, NA ,780,654.06,27675.69,444.9
+1913,patent_in_fee_issues|applications_received,1,1,13,0,291, NA ,1,0,7,0
+1913,patent_in_fee_issues|applications_denied,0,0,8,0,780, NA ,0,0,2,0
+1913,patent_in_fee_issues|applications_approved,1,1,5,0,490.21, NA ,1,0,5,0
+1913,patent_in_fee_issues|acreage_approved,160,40,256.64,0,827.43, NA ,120,0,178.78,0
+1913,sale_of_noncompetent_land|number_of_tracts,1,1,1, NA ,1, NA ,1,4,10,3
+1913,sale_of_noncompetent_land|acreage,160,80,38.64, NA ,61.7, NA ,120,398.35,534.75,138.86
+1913,sale_of_noncompetent_land|total_proceeds,850,1501,760, NA ,1872.6, NA ,4860,15279.35,23117,4100
+1913,sale_of_noncompetent_land|average_price_per_acre,5.31,18.76,19.67, NA ,30.35, NA ,40.5,38.36,43.23,29.53
+1913,sale_of_inherited_land|number_of_tracts,0,3,1, NA ,0, NA ,0,0,19,0
+1913,sale_of_inherited_land|acreage,0,180,64, NA ,0, NA ,0,0,1280,0
+1913,sale_of_inherited_land|total_proceeds,0,3405,4512, NA ,0, NA ,0,0,36727,0
+1913,sale_of_inherited_land|average_price_per_acre,0,18.91,70.5, NA ,0, NA ,0,0,28.69,0
+1913,sale_of_land|total_number_of_tracts,1,4,2, NA ,1, NA ,1,4,29,3
+1913,sale_of_land|total_acreage,160,260,102.64, NA ,61.7, NA ,120,398.35,1814.75,138.86
+1913,sale_of_land|total_proceeds,850,4906,5272, NA ,1872.6, NA ,4860,15279.35,59844,4100
+1913,sale_of_land|total_average_price_per_acre,5.31,18.87,51.36, NA ,30.35, NA ,40.5,38.36,32.92,29.53
+1914,number_of_allotments,0,0,0,0,0,0,0,0,0,0
+1914,allotted|total_acreage,207374,77442,82444,139972,74944,3728,64794,49305,294406,93757
+1914,unallotted|total_acreage,811802,0,74330,322832,1296336,19952,82648,389,798413,168888
+1914,total_reservation_acreage,1019176,77442,156774,462804,1371280,23680,147442,49694,1092819,262645
+1914,patent_in_fee_issues_since_1906|number_of_original_allotment,961,18,216,3,45, NA ,14,9,112,4
+1914,patent_in_fee_issues_since_1906|acreage_original_allotment,62980.9,1360.06,12716.99,360,3629.95, NA ,1356.95,1417.66,7827.43,371
+1914,patent_in_fee_issues_since_1906|number_of_inherited_land,5,2,39,5,1, NA ,0,1,253,3
+1914,patent_in_fee_issues_since_1906|acreage_inherited_land,800,162.72,2926.89,760,89, NA ,0,163.85,20248.26,153.9
+1914,patent_in_fee_issues_since_1906|total_number,966,20,255,8,46, NA ,14,10,365,7
+1914,patent_in_fee_issues_since_1906|total_acreage,63780.9,1522.78,15643.88,1120,3718.95, NA ,1356.95,1581.51,28075.69,524.9
+1914,patent_in_fee_issues|applications_received,10,20,22,1,11, NA ,7,9,10,7
+1914,patent_in_fee_issues|applications_denied,1,2,6,0,0, NA ,0,1,5,6
+1914,patent_in_fee_issues|applications_approved,9,18,16,1,11, NA ,7,8,5,1
+1914,patent_in_fee_issues|acreage_approved,1444.93,1402.78,1117.37,120,844.4, NA ,576.95,927.45,400,80
+1914,sale_of_noncompetent_land|number_of_tracts,3,2,0, NA ,1, NA , NA , NA ,6,1
+1914,sale_of_noncompetent_land|acreage,459.58,21,0, NA ,160, NA , NA , NA ,166.38,28.5
+1914,sale_of_noncompetent_land|total_proceeds,2500,600,0, NA ,1500, NA , NA , NA ,8409,1575
+1914,sale_of_noncompetent_land|average_price_per_acre,5.44,28.57,0, NA ,9.38, NA , NA , NA ,50.54,55.2631578947368
+1914,sale_of_inherited_land|number_of_tracts,22,6,2, NA ,1, NA , NA , NA ,5,2
+1914,sale_of_inherited_land|acreage,4205.71,301.5,191.53, NA ,77.9, NA , NA , NA ,382.35,115.4
+1914,sale_of_inherited_land|total_proceeds,20549,4955.55,17250, NA ,945, NA , NA , NA ,17685,10104
+1914,sale_of_inherited_land|average_price_per_acre,4.89,16.44,90.06, NA ,12.13, NA , NA , NA ,46.25,87.5563258232236
+1914,sale_of_land|total_number_of_tracts,25,8,2, NA ,2, NA , NA , NA ,11,3
+1914,sale_of_land|total_acreage,4665.29,322.5,191.53, NA ,237.9, NA , NA , NA ,548.73,143.9
+1914,sale_of_land|total_proceeds,23049,5555.55,17250, NA ,2445, NA , NA , NA ,26094,11679
+1914,sale_of_land|total_average_price_per_acre,4.94,17.23,90.06, NA ,10.28, NA , NA , NA ,47.55,81.1605281445448
+1915,number_of_allotments,1345,820,1113,966,695,373,626,395,4485,1123
+1915,allotted|total_acreage,207374,77442,82444,140132,74271,3728,64794,49305,451609,93757
+1915,unallotted|total_acreage,811802,0,74330,322672,1296336,19952,82648,389,584853,168888
+1915,total_reservation_acreage,1019176,77442,156774,462804,1370607,23680,147442,49694,1036462,262645
+1915,patent_in_fee_issues_since_1906|number_of_original_allotment,30,20,219,3,49, NA ,34,12,117,6
+1915,patent_in_fee_issues_since_1906|acreage_original_allotment,4552.27,1378.78,12876.99,360,3950.56, NA ,3082.5,1678.36,8067.43,570
+1915,patent_in_fee_issues_since_1906|number_of_inherited_land,3,7,40,5,1, NA ,0,1,253,4
+1915,patent_in_fee_issues_since_1906|acreage_inherited_land,482.72,562.72,2966.89,760,80, NA ,0,163.85,20248.26,233
+1915,patent_in_fee_issues_since_1906|total_number,33,27,259,8,50, NA ,34,13,370,10
+1915,patent_in_fee_issues_since_1906|total_acreage,5034.99,1941.5,15843.88,1120,4030.56, NA ,3082.5,1842.21,28315.69,803
+1915,patent_in_fee_issues|applications_received,10,7,7,0,6, NA ,28,8,11,6
+1915,patent_in_fee_issues|applications_denied,2,0,3,0,2, NA ,8,5,6,3
+1915,patent_in_fee_issues|applications_approved,8,7,4,0,4, NA ,20,3,5,3
+1915,patent_in_fee_issues|acreage_approved,1190.66,478.72,200,0,320.61, NA ,1725.55,260.7,240,280
+1915,sale_of_noncompetent_land|number_of_tracts,3,1,4, NA ,2, NA , NA ,1,1,2
+1915,sale_of_noncompetent_land|acreage,480,100,271.98, NA ,153.9, NA , NA ,160,2.5,84.76
+1915,sale_of_noncompetent_land|total_proceeds,3365,1562.5,13018, NA ,11610, NA , NA ,3800,100,2400
+1915,sale_of_noncompetent_land|average_price_per_acre,7.01,15.63,47.86, NA ,75.44, NA , NA ,23.75,40,28.3152430391694
+1915,sale_of_inherited_land|number_of_tracts,13,1,11, NA ,1, NA , NA ,2,7,4
+1915,sale_of_inherited_land|acreage,1603,5,988.86, NA ,80, NA , NA ,130.25,620,103.42
+1915,sale_of_inherited_land|total_proceeds,10600,126,54322, NA ,1500, NA , NA ,7670,27415.1,3750
+1915,sale_of_inherited_land|average_price_per_acre,6.61,25.2,54.93, NA ,18.75, NA , NA ,58.89,44.22,36.2599110423516
+1915,sale_of_land|total_number_of_tracts,16,2,15, NA ,3, NA , NA ,3,8,6
+1915,sale_of_land|total_acreage,2083,105,1260.84, NA ,233.9, NA , NA ,290.25,622.5,188.18
+1915,sale_of_land|total_proceeds,13965,1688.5,67340, NA ,13110, NA , NA ,11470,27515.1,6150
+1915,sale_of_land|total_average_price_per_acre,6.7,16.08,53.41, NA ,56.05, NA , NA ,39.52,44.2,32.6814751833351
+1916,number_of_allotments,1345,820,1113,966,2953,373,628,395,4487,1123
+1916,allotted|total_acreage,207374,77442,82444,140132,355413,3728,64954,49305,451762,93757
+1916,unallotted|total_acreage,811802,0,74330,322672,1015194,19952,82488,389,412564,168888
+1916,total_reservation_acreage,1019176,77442,156774,462804,1370607,23680,147442,49694,864326,262645
+1916,patent_in_fee_issues_since_1906|number_of_original_allotment,33,20,242,3,53, NA ,35,12,117,6
+1916,patent_in_fee_issues_since_1906|acreage_original_allotment,4952.27,1378.78,14714.61,360,4276.3, NA ,3242.5,1678.36,8067.43,570
+1916,patent_in_fee_issues_since_1906|number_of_inherited_land,3,8,46,5,2, NA ,0,1,255,4
+1916,patent_in_fee_issues_since_1906|acreage_inherited_land,482.72,642.72,3246.89,760,160, NA ,0,163.85,20348.26,233.9
+1916,patent_in_fee_issues_since_1906|total_number,36,28,288,8,55, NA ,35,13,372,10
+1916,patent_in_fee_issues_since_1906|total_acreage,5434.99,2021.5,17961.5,1120,4436.3, NA ,3242.5,1842.21,28415.69,803.9
+1916,patent_in_fee_issues|applications_received,4,12,9,0,5, NA ,3,5,2,5
+1916,patent_in_fee_issues|applications_denied,1,11,3,0,0, NA ,2,5,0,0
+1916,patent_in_fee_issues|applications_approved,3,1,6,0,5, NA ,1,0,2,5
+1916,patent_in_fee_issues|acreage_approved,400,80,280,0,405.74, NA ,160,0,100,405.74
+1916,sale_of_noncompetent_land|number_of_tracts,4, NA ,3, NA ,1, NA ,1,1,9,3
+1916,sale_of_noncompetent_land|acreage,640, NA ,115.8, NA ,2.55, NA ,120,43.5,503,102.15
+1916,sale_of_noncompetent_land|total_proceeds,2803, NA ,6821.8, NA ,75, NA ,4860,1350,25086.1,5161.5
+1916,sale_of_noncompetent_land|average_price_per_acre,4.38, NA ,58.91, NA ,29.41, NA ,40.5,31.03,49.87,50.5286343612335
+1916,sale_of_inherited_land|number_of_tracts,7, NA ,11, NA ,1, NA ,0,0,5,2
+1916,sale_of_inherited_land|acreage,960, NA ,589.23, NA ,62.33, NA ,0,0,360,13.72
+1916,sale_of_inherited_land|total_proceeds,6851.75, NA ,44760, NA ,3277, NA ,0,0,20892.5,1925
+1916,sale_of_inherited_land|average_price_per_acre,7.14, NA ,75.96, NA ,52.58, NA ,0,0,58.03,140.30612244898
+1916,sale_of_land|total_number_of_tracts,11, NA ,14, NA ,2, NA ,1,1,14,5
+1916,sale_of_land|total_acreage,1600, NA ,705.03, NA ,64.88, NA ,120,43.5,863,115.87
+1916,sale_of_land|total_proceeds,9654.75, NA ,51581.8, NA ,3352, NA ,4860,1350,45978.6,7086.5
+1916,sale_of_land|total_average_price_per_acre,6.03, NA ,73.16, NA ,51.66, NA ,40.5,31.03,53.28,61.159057564512
+1917,number_of_allotments,1351,820,1115,967,2953,373,628,395,4488,1123
+1917,allotted|total_acreage,208279,77442,82644,140292,355413,3728,64954,49305,451922,93757
+1917,unallotted|total_acreage,812707,0,74130,322512,1009580,19952,82488,389,412404,168888
+1917,total_reservation_acreage,1020986,77442,156774,462804,1364993,23680,147442,49694,864326,262645
+1917,patent_in_fee_issues_since_1906|number_of_original_allotment,39,21,265,5,68, NA ,46,14,126,6
+1917,patent_in_fee_issues_since_1906|acreage_original_allotment,5912.27,1438.78,16512.61,680,5534.3, NA ,4066.5,1814.36,8553.93,570
+1917,patent_in_fee_issues_since_1906|number_of_inherited_land,5,16,51,5,2, NA ,0,1,264,4
+1917,patent_in_fee_issues_since_1906|acreage_inherited_land,802.72,1460.72,3566.89,760,160, NA ,0,163.85,20870.76,233.9
+1917,patent_in_fee_issues_since_1906|total_number,44,37,316,10,70, NA ,46,15,390,10
+1917,patent_in_fee_issues_since_1906|total_acreage,6714.99,2899.5,20079.5,1440,5694.3, NA ,4066.5,1978.21,29424.69,803.9
+1917,patent_in_fee_issues|applications_received,14,9,31,2,17, NA ,15,3,20,0
+1917,patent_in_fee_issues|applications_denied,6,0,3,0,2, NA ,4,1,2,0
+1917,patent_in_fee_issues|applications_approved,8,9,28,2,15, NA ,11,2,18,0
+1917,patent_in_fee_issues|acreage_approved,1280,878,2118,320,1258, NA ,824,136,1009,0
+1917,sale_of_noncompetent_land|number_of_tracts,0,0,1, NA ,1, NA , NA ,0,5,2
+1917,sale_of_noncompetent_land|acreage,0,0,40, NA ,60, NA , NA ,0,250,41
+1917,sale_of_noncompetent_land|total_proceeds,0,0,2021, NA ,800, NA , NA ,0,12137,2250
+1917,sale_of_noncompetent_land|average_price_per_acre,0,0,50.53, NA ,13.33, NA , NA ,0,48.55,54.8780487804878
+1917,sale_of_inherited_land|number_of_tracts,1,1,4, NA ,2, NA , NA ,1,9,2
+1917,sale_of_inherited_land|acreage,160,40,235, NA ,120, NA , NA ,2,693,92
+1917,sale_of_inherited_land|total_proceeds,950,1200,12854, NA ,3840, NA , NA ,142,27593,4811
+1917,sale_of_inherited_land|average_price_per_acre,5.94,30,54.7, NA ,32, NA , NA ,71,39.82,117.583333333333
+1917,sale_of_land|total_number_of_tracts,1,1,5, NA ,3, NA , NA ,1,14,4
+1917,sale_of_land|total_acreage,160,40,275, NA ,180, NA , NA ,2,943,133
+1917,sale_of_land|total_proceeds,950,1200,14875, NA ,4640, NA , NA ,142,39730,7061
+1917,sale_of_land|total_average_price_per_acre,5.94,30,54.09, NA ,25.78, NA , NA ,71,42.13,107.754716981132
+1918,number_of_allotments,1351,820,1115,967,2953,373,628,395,4488,1123
+1918,allotted|total_acreage,208279,77442,82644,140292,355413,3728,64954,49305,451922,93757
+1918,unallotted|total_acreage,812707,0,74130,322512,1009580,19952,82488,389,412404,168888
+1918,total_reservation_acreage,1020986,77442,156774,462804,1364993,23680,147442,49694,864326,262645
+1918,patent_in_fee_issues_since_1906|number_of_original_allotment,108,28,330,5,225, NA ,94,19,224,51
+1918,patent_in_fee_issues_since_1906|acreage_original_allotment,18245.27,2182.78,22232.61,680,23194.3, NA ,9390.5,2135.36,16328.93,4100
+1918,patent_in_fee_issues_since_1906|number_of_inherited_land,5,18,56,5,4, NA ,0,1,302,5
+1918,patent_in_fee_issues_since_1906|acreage_inherited_land,802.72,1620.72,4046.89,760,320, NA ,0,163.85,23387.76,312.9
+1918,patent_in_fee_issues_since_1906|total_number,113,46,386,10,229, NA ,94,20,526,56
+1918,patent_in_fee_issues_since_1906|total_acreage,19047.99,3803.5,26279.5,1440,23514.3, NA ,9390.5,2299.21,39716.69,4412.9
+1918,patent_in_fee_issues|applications_received,71,15,78,0,159, NA ,51,6,140,48
+1918,patent_in_fee_issues|applications_denied,2,6,8,0,0, NA ,3,1,4,2
+1918,patent_in_fee_issues|applications_approved,69,9,70,0,159, NA ,48,5,136,46
+1918,patent_in_fee_issues|acreage_approved,12333,904,6200,0,17820, NA ,5324,321,10292,3610
+1918,sale_of_noncompetent_land|number_of_tracts,18, NA ,5, NA ,6, NA , NA ,2,11,2
+1918,sale_of_noncompetent_land|acreage,2406, NA ,508, NA ,199, NA , NA ,58,579,40
+1918,sale_of_noncompetent_land|total_proceeds,25612, NA ,47760, NA ,3620, NA , NA ,5931,26135,1948
+1918,sale_of_noncompetent_land|average_price_per_acre,10.6450540315877,NA,94.0157480314961,NA,18.1909547738693,NA,NA,102.258620689655,45.1381692573403,48.7
+1918,sale_of_inherited_land|number_of_tracts,20, NA ,6, NA ,0, NA , NA ,3,21,3
+1918,sale_of_inherited_land|acreage,2962, NA ,440, NA ,0, NA , NA ,120,1688,165
+1918,sale_of_inherited_land|total_proceeds,30697, NA ,47415, NA ,0, NA , NA ,3150,64774,4890
+1918,sale_of_inherited_land|average_price_per_acre,10.36, NA ,107.76, NA ,0, NA , NA ,26.25,38.37,29.6363636363636
+1918,sale_of_land|total_number_of_tracts,38, NA ,11, NA ,6, NA , NA ,5,32,5
+1918,sale_of_land|total_acreage,5368, NA ,948, NA ,199, NA , NA ,178,2267,205
+1918,sale_of_land|total_proceeds,56309, NA ,95175, NA ,3620, NA , NA ,9081,90909,6838
+1918,sale_of_land|total_average_price_per_acre,10.49, NA ,100.4, NA ,18.19, NA , NA ,51.02,40.1,33.3560975609756
+1919,number_of_allotments,1352,820,1115,967,2956,373,628,395,4488,1123
+1919,allotted|total_acreage,208439,77442,82644,140292,355893,3728,64954,49305,451922,93757
+1919,unallotted|total_acreage,812547,0,74130,322512,1009100,19952,82488,389,412404,168888
+1919,total_reservation_acreage,1020986,77442,156774,462804,1364993,23680,147442,49694,864326,262645
+1919,patent_in_fee_issues_since_1906|number_of_original_allotment,148,166,334,5,389, NA ,107,39,431,55
+1919,patent_in_fee_issues_since_1906|acreage_original_allotment,24214.27,15779.74,22673.61,680,40830.3, NA ,10647,4298.36,32991.93,4533
+1919,patent_in_fee_issues_since_1906|number_of_inherited_land,5,19,62,5,5, NA ,1,1,302,6
+1919,patent_in_fee_issues_since_1906|acreage_inherited_land,802.72,1698.76,4446.89,760,480, NA ,80,163.85,23387.76,393
+1919,patent_in_fee_issues_since_1906|total_number,153,185,396,10,394, NA ,108,40,733,61
+1919,patent_in_fee_issues_since_1906|total_acreage,25016.99,17478.5,27120.5,1440,41310.3, NA ,10727,4462.21,56379.69,4926
+1919,patent_in_fee_issues|applications_received,43,142,17,0,165, NA ,17,21,207,7
+1919,patent_in_fee_issues|applications_denied,3,3,7,0,0, NA ,3,1,0,2
+1919,patent_in_fee_issues|applications_approved,40,139,10,0,165, NA ,14,20,207,5
+1919,patent_in_fee_issues|acreage_approved,5969,13675,841,0,17796, NA ,1337,2163,16663,513
+1919,sale_of_noncompetent_land|number_of_tracts,5, NA ,0, NA ,1, NA ,1, NA ,7,3
+1919,sale_of_noncompetent_land|acreage,572, NA ,0, NA ,80, NA ,121, NA ,243,43
+1919,sale_of_noncompetent_land|total_proceeds,9396, NA ,0, NA ,1251, NA ,2400, NA ,12207,830
+1919,sale_of_noncompetent_land|average_price_per_acre,16.43, NA ,0,  NA  ,15.64,  NA  ,19.83,  NA  ,50.23,19.3023255813953
+1919,sale_of_inherited_land|number_of_tracts,10, NA ,6, NA ,9, NA ,0, NA ,8,0
+1919,sale_of_inherited_land|acreage,1458, NA ,340, NA ,480, NA ,0, NA ,720,0
+1919,sale_of_inherited_land|total_proceeds,14504, NA ,32406, NA ,960, NA ,0, NA ,27369,0
+1919,sale_of_inherited_land|average_price_per_acre,9.95, NA ,95.31, NA ,2,  NA  ,0,  NA  ,38.01,0
+1919,sale_of_land|total_number_of_tracts,15, NA ,6, NA ,10,  NA  ,1,  NA  ,15,3
+1919,sale_of_land|total_acreage,2030, NA ,340, NA ,560,  NA  ,121,  NA  ,963,43
+1919,sale_of_land|total_proceeds,23900, NA ,32406, NA ,2211,  NA  ,2400,  NA  ,39576,830
+1919,sale_of_land|total_average_price_per_acre,11.77, NA ,95.31, NA ,3.95,  NA  ,19.83,  NA  ,41.1,19.3023255813953
+1920,number_of_allotments,1479,820,1115,967,2956,373,628,395,4488,1123
+1920,allotted|total_acreage,226838,77442,82644,140292,355893,3728,64954,49305,451922,93757
+1920,unallotted|total_acreage,794148,0,74130,322512,1009100,19952,82488,389,412404,168888
+1920,total_reservation_acreage,1020985,77442,156774,462804,1364993,23680,147442,49694,864326,262645
+1920,patent_in_fee_issues_since_1906|number_of_original_allotment,221,209,342,9,459, NA ,117,42,502,114
+1920,patent_in_fee_issues_since_1906|acreage_original_allotment,35961.6,21097.82,23445.61,1263.12,48425.3, NA ,11583.5,4701.36,37620.93,9600
+1920,patent_in_fee_issues_since_1906|number_of_inherited_land,24,66,76,7,24, NA ,2,1,307,16
+1920,patent_in_fee_issues_since_1906|acreage_inherited_land,2689.39,5822.68,5133.89,1075.88,2478, NA ,200,163.85,23804.76,1193
+1920,patent_in_fee_issues_since_1906|total_number,245,275,418,16,483, NA ,119,43,809,130
+1920,patent_in_fee_issues_since_1906|total_acreage,38650.99,26920.5,28579.5,2339,50903.3, NA ,11783.5,4865.21,61425.69,10793
+1920,patent_in_fee_issues|applications_received,92,90,27,6,89, NA ,11,6,76,80
+1920,patent_in_fee_issues|applications_denied,0,0,5,0,0, NA ,0,3,0,11
+1920,patent_in_fee_issues|applications_approved,92,90,22,6,89, NA ,11,3,76,69
+1920,patent_in_fee_issues|acreage_approved,14634,9442,1459,899,9593, NA ,1056,403,5046,5867
+1920,sale_of_noncompetent_land|number_of_tracts,6, NA ,10, NA ,4, NA ,0,3,25,6
+1920,sale_of_noncompetent_land|acreage,759, NA ,695, NA ,321, NA ,0,262,1948,87
+1920,sale_of_noncompetent_land|total_proceeds,7369, NA ,87339, NA ,9810, NA ,0,7460,114574,4079
+1920,sale_of_noncompetent_land|average_price_per_acre,9.71, NA ,125.67, NA ,30.56, NA ,0,28.47,58.82,46.8850574712644
+1920,sale_of_inherited_land|number_of_tracts,10, NA ,14, NA ,6, NA ,1,0,34,4
+1920,sale_of_inherited_land|acreage,1056, NA ,591, NA ,922, NA ,120,0,2780,220
+1920,sale_of_inherited_land|total_proceeds,11026, NA ,71357, NA ,18357, NA ,2025,0,130586,8034
+1920,sale_of_inherited_land|average_price_per_acre,10.44, NA ,120.74, NA ,19.91, NA ,16.88,0,46.97,79.6232142857143
+1920,sale_of_land|total_number_of_tracts,16, NA ,24, NA ,10, NA ,1,3,59,10
+1920,sale_of_land|total_acreage,1815, NA ,1286, NA ,1243, NA ,120,262,4728,307
+1920,sale_of_land|total_proceeds,18395, NA ,158696, NA ,28167, NA ,2025,7460,245160,12113
+1920,sale_of_land|total_average_price_per_acre,10.13, NA ,123.4, NA ,22.66, NA ,16.88,28.47,51.85,86.9623898678414

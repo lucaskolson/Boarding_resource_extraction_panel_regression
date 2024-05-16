@@ -1,0 +1,153 @@
+Year,Variable, Klamath, Siletz, Umatilla, Warm Springs, OR_scattered, Colville, Neah bay, Spokane, Tulalip, Yakima, WA_scattered,Cushman-Taholah
+1911,indian_population,1116,434,1091,762,NA,2957,718,NA,1607,2622,NA,3000
+1911,total_number_of_school_age_children,329,109,250,177,NA,887,219,NA,486,721,NA,509
+1911,ineligible_for_school_attendance,93,0,10,35,NA,220,13,NA,82,25,NA,42
+1911,number_eligible_for_attendance,236,109,240,142,NA,667,206,NA,404,696,NA,467
+1911,indian_children_in_govt-school|nonreservation_boarding,26,7,15,0,NA,0,8,NA,0,0,NA,0
+1911,indian_children_in_govt-school|reservation_boarding,86,0,85,100,NA,20,0,NA,236,141,NA,210
+1911,indian_children_in_govt-school|day,75,37,0,23,NA,196,105,NA,71,0,NA,85
+1911,indian_children_in_govt-school|total,187,44,100,123,NA,216,113,NA,307,141,NA,295
+1911,indian_children_in_mission/private|contract,0,0,0,0,NA,0,0,NA,0,0,NA,0
+1911,indian_children_in_mission/private|boarding,0,0,77,0,NA,106,0,NA,0,0,NA,80
+1911,indian_children_in_mission/private|day,0,0,0,0,NA,0,0,NA,0,0,NA,0
+1911,indian_children_in_mission/private|noncontract_total ,0,0,77,0,NA,106,0,NA,0,0,NA,80
+1911,indian_children_in_mission/private|total,0,0,77,0,NA,106,0,NA,0,0,NA,80
+1911,indian_children_in_public|contract_or_where_tuition_is_paid,0,0,0,0,NA,0,0,NA,0,130,NA,0
+1911,indian_children_in_public|noncontract,41,11,45,0,NA,180,51,NA,0,5,NA,0
+1911,indian_children_in_public|total,41,11,45,0,NA,180,51,NA,0,135,NA,0
+1911,indian_children_in_school|total,228,55,222,123,NA,502,164,NA,307,276,NA,375
+1911,eligible_children_not_in_school,8,54,18,19,NA,165,42,NA,97,420,NA,92
+1912,indian_population,1117,429,1114,741,NA,2261,727,849,1397,3046,NA,3460
+1912,total_number_of_school_age_children,354,144,390,197,56,523,219,133,407,902,NA,224
+1912,ineligible_for_school_attendance,78,6,79,48,0,43,60,14,73,46,NA,19
+1912,number_eligible_for_attendance,276,138,311,149,56,480,159,119,334,856,NA,205
+1912,indian_children_in_govt-school|nonreservation_boarding,48,29,23,9,56,32,5,8,11,34,NA,42
+1912,indian_children_in_govt-school|reservation_boarding,85,0,105,101,0,0,0,0,142,155,NA,9
+1912,indian_children_in_govt-school|day,88,49,0,23,0,138,113,77,60,0,NA,61
+1912,indian_children_in_govt-school|total,221,78,128,133,56,170,118,85,213,189,NA,112
+1912,indian_children_in_mission/private|contract,0,0,0,0,0,0,0,0,0,0,NA,0
+1912,indian_children_in_mission/private|boarding,0,0,94,0,0,142,0,0,0,0,NA,85
+1912,indian_children_in_mission/private|day,0,0,0,0,0,0,0,0,0,0,NA,0
+1912,indian_children_in_mission/private|noncontract_total  ,0,0,94,0,0,142,0,0,0,0,NA,85
+1912,indian_children_in_mission/private|total,0,0,94,0,0,142,0,0,0,0,NA,85
+1912,indian_children_in_public|contract_or_where_tuition_is_paid,0,0,0,0,0,0,0,0,5,201,NA,0
+1912,Indian children in public|noncontract ,53,12,28,0,0,104,23,0,41,7,NA,7
+1912,indian_children_in_public|total,53,12,28,0,0,104,23,0,46,208,NA,7
+1912,indian_children_in_school|total,274,90,250,133,56,416,141,85,259,397,NA,204
+1912,eligible_children_not_in_school,2,48,61,16,0,64,18,34,75,459,NA,1
+1913,indian_population,1112,429,1124,749,NA,2285,703,637,1494,3052,NA,3071
+1913,total_number_of_school_age_children,350,132,381,198,84,556,208,205,467,934,62,418
+1913,ineligible_for_school_attendance,40,31,73,49,0,68,64,14,72,51,0,24
+1913,number_eligible_for_attendance,310,101,308,149,84,488,144,191,395,883,62,394
+1913,indian_children_in_govt-school|nonreservation_boarding,48,34,23,5,84,53,14,3,17,74,62,192
+1913,indian_children_in_govt-school|reservation_boarding,101,0,111,109,0,0,0,0,203,146,0,0
+1913,indian_children_in_govt-school|day,108,59,0,21,0,166,124,88,124,0,0,68
+1913,indian_children_in_govt-school|total,257,93,134,135,84,219,138,91,344,220,62,260
+1913,indian_children_in_mission/private|contract,0,0,0,0,0,0,0,0,0,0,0,0
+1913,indian_children_in_mission/private|boarding,0,0,78,0,0,126,0,0,0,0,0,74
+1913,indian_children_in_mission/private|day,0,0,0,0,0,0,0,0,0,0,0,0
+1913,indian_children_in_mission/private|noncontract_total ,0,0,78,0,0,126,0,0,0,0,0,74
+1913,indian_children_in_mission/private|total ,0,0,78,0,0,126,0,0,0,0,0,74
+1913,indian_children_in_public|contract_or_where_tuition_is_paid,0,0,0,0,0,0,0,0,11,158,0,6
+1913,Indian children in public|noncontract ,43,8,38,0,0,104,0,0,40,204,0,40
+1913,indian_children_in_public|total,43,8,38,0,0,104,0,0,51,362,0,46
+1913,indian_children_in_school|total,300,101,250,135,84,449,138,91,395,582,62,380
+1913,eligible_children_not_in_school,10,0,58,14,0,39,6,100,0,301,0,14
+1914,indian_population,1121,426,1110,742,NA,2425,693,624,1239,3149,NA,3051
+1914,total_number_of_school_age_children,345,129,386,190,64,672,204,212,383,1031,116,437
+1914,ineligible_for_school_attendance,33,39,9,20,0,126,56,10,73,51,0,37
+1914,number_eligible_for_attendance,312,90,377,170,64,546,148,202,310,980,116,400
+1914,indian_children_in_govt-school|nonreservation_boarding,18,18,40,15,64,34,18,1,6,42,116,134
+1914,indian_children_in_govt-school|reservation_boarding,127,0,98,126,0,0,0,0,200,140,0,0
+1914,indian_children_in_govt-school|day,120,45,0,26,0,188,123,99,69,0,0,123
+1914,indian_children_in_govt-school|total,265,63,138,167,64,222,141,100,275,182,116,257
+1914,indian_children_in_mission/private|boarding,0,0,81,0,0,127,0,0,0,0,0,110
+1914,indian_children_in_mission/private|day ,0,0,0,0,0,0,0,0,0,0,0,0
+1914,indian_children_in_mission/private|total ,0,0,81,0,0,127,0,0,0,0,0,110
+1914,indian_children_in_public|total,35,20,0,0,0,149,0,0,30,200,0,14
+1914,indian_children_in_school|total,300,83,219,167,64,498,141,100,305,382,116,381
+1914,eligible_children_not_in_school,12,7,158,3,0,48,7,102,5,598,0,19
+1915,indian_population,1145,425,1152,759,NA,2468,702,611,1273,3146,NA,3130
+1915,total_number_of_school_age_children,375,140,349,155,55,703,223,189,396,927,92,436
+1915,ineligible_for_school_attendance,57,25,9,14,0,100,29,14,65,33,0,38
+1915,number_eligible_for_attendance,318,115,340,141,55,603,194,175,331,894,92,398
+1915,indian_children_in_govt-school|nonreservation_boarding ,8,42,34,11,55,30,33,0,32,10,92,167
+1915,indian_children_in_govt-school|reservation_boarding,111,0,125,97,0,0,0,0,186,155,0,0
+1915,indian_children_in_govt-school|day ,125,48,0,25,0,212,122,89,64,0,0,141
+1915,indian_children_in_govt-school|total,244,90,159,133,55,242,155,89,282,165,92,308
+1915,indian_children_in_mission/private|boarding,0,0,104,0,0,111,0,0,0,0,0,108
+1915,indian_children_in_mission/private|day ,0,0,0,0,0,0,0,0,0,,0,0
+1915,indian_children_in_mission/private|total ,0,0,104,0,0,111,0,0,0,0,0,108
+1915,indian_children_in_public|total,43,16,0,0,0,164,39,0,46,200,0,19
+1915,indian_children_in_school|total,287,106,263,133,55,517,194,89,328,365,92,435
+1915,eligible_children_not_in_school ,31,9,77,8,0,86,0,86,3,529,0,76
+1916,indian_population,1152,416,1151,825,NA,2526,698,616,1335,3086,NA,3084
+1916,total_number_of_school_age_children,352,133,400,178,52,667,230,199,419,950,44,491
+1916,ineligible_for_school_attendance,39,5,6,8,0,71,9,19,71,26,0,29
+1916,number_eligible_for_attendance,313,128,394,170,52,596,221,180,348,924,44,462
+1916,indian_children_in_govt-school|nonreservation_boarding ,8,35,30,7,52,19,21,3,22,24,44,156
+1916,indian_children_in_govt-school|reservation_boarding,128,0,125,121,0,0,0,0,174,145,0,0
+1916,indian_children_in_govt-school|day ,99,52,0,33,0,197,127,88,60,0,0,163
+1916,indian_children_in_govt-school|total,235,87,155,161,52,216,148,91,256,169,44,319
+1916,indian_children_in_mission/private|boarding,0,0,108,0,0,111,0,0,0,0,0,94
+1916,indian_children_in_mission/private|day ,0,0,0,0,0,0,0,0,0,0,0,0
+1916,indian_children_in_mission/private|total ,0,0,108,0,0,111,0,0,0,0,,
+1916,indian_children_in_public|total,0,14,0,0,0,197,30,30,44,250,0,17
+1916,indian_children_in_school|total,235,101,263,161,52,524,178,121,300,419,44,430
+1916,eligible_children_not_in_school ,78,27,131,9,0,72,43,59,48,505,0,119
+1917,indian_population,1160,437,1197,818,0,2529,697,603,1359,3000,0,2900
+1917,total_number_of_school_age_children,373,135,433,195,64,771,210,189,414,980,53,484
+1917,ineligible_for_school_attendance,48,10,42,14,0,18,15,25,59,30,0,28
+1917,number_eligible_for_attendance,325,125,391,181,64,753,195,164,355,950,53,2256
+1917,indian_children_in_govt-school|nonreservation_boarding ,17,43,28,4,64,32,17,25,24,38,53,150
+1917,indian_children_in_govt-school|reservation_boarding ,165,0,142,109,0,0,0,0,208,127,0,0
+1917,indian_children_in_govt-school|day,181,3,0,21,0,160,111,68,60,0,0,133
+1917,indian_children_in_govt-school|total ,363,74,170,134,64,192,128,93,292,165,53,283
+1917,indian_children_in_mission/private|boarding,0,0,70,0,0,122,0,0,0,0,0,86
+1917,indian_children_in_mission/private|day ,0,0,0,0,0,0,0,0,0,0,0,0
+1917,indian_children_in_mission/private|total ,0,0,70,0,0,122,0,0,0,0,0,86
+1917,indian_children_in_public|total,0,51,0,0,0,220,26,7,58,248,53,27
+1917,indian_children_in_school|total,263,125,240,134,64,534,154,100,350,413,0,396
+1917,eligible_children_not_in_school ,62,0,151,47,0,219,41,64,5,537,0,129
+1918,indian_population,1160,446,1229,822,0,2566,682,604,1353,3000,0,2877
+1918,total_number_of_school_age_children,373,144,376,179,107,806,198,158,404,932,149,399
+1918,ineligible_for_school_attendance,48,16,12,9,0,39,10,22,19,50,0,28
+1918,number_eligible_for_attendance,325,128,364,170,107,767,188,136,385,882,149,371
+1918,indian_children_in_govt-school|nonreservation_boarding ,24,22,24,8,107,62,19,23,17,45,149,173
+1918,indian_children_in_govt-school|reservation_boarding ,109,0,102,106,0,0,0,0,262,141,0,0
+1918,indian_children_in_govt-school|day,50,16,0,19,0,133,102,51,47,0,0,103
+1918,indian_children_in_govt-school|total ,183,38,126,133,107,195,121,74,326,186,149,276
+1918,indian_children_in_mission/private|boarding,0,0,58,0,0,101,0,0,0,0,0,76
+1918,indian_children_in_mission/private|day ,0,0,0,0,0,0,0,0,0,0,0,0
+1918,indian_children_in_mission/private|total ,0,0,58,0,0,101,0,0,0,0,0,76
+1918,indian_children_in_public|total,0,64,62,0,0,197,37,8,59,307,0,45
+1918,indian_children_in_school|total,183,102,246,133,107,493,158,82,385,493,149,397
+1918,eligible_children_not_in_school ,142,26,118,37,0,274,30,54,0,389,0,139
+1919,indian_population,1154,1158,1167,928,2200,2518,669,617,1321,2933,0,2930
+1919,total_number_of_school_age_children,377,133,352,167,923,551,174,185,410,1082,167,496
+1919,ineligible_for_school_attendance,58,36,17,4,0,49,17,20,26,200,0,21
+1919,number_eligible_for_attendance,319,97,335,163,923,502,157,165,384,882,167,475
+1919,indian_children_in_govt-school|nonreservation_boarding ,30,15,38,13,123,103,11,11,35,59,167,80
+1919,indian_children_in_govt-school|reservation_boarding ,100,0,0,121,0,0,0,0,177,87,0,0
+1919,indian_children_in_govt-school|day,39,0,52,29,0,95,81,49,0,0,0,72
+1919,indian_children_in_govt-school|total ,169,15,90,163,123,198,92,60,212,146,167,152
+1919,indian_children_in_mission/private|boarding,0,0,77,0,0,56,0,0,0,0,0,79
+1919,indian_children_in_mission/private|day ,0,0,0,0,0,0,0,0,0,0,0,0
+1919,indian_children_in_mission/private|total ,0,0,77,0,0,56,0,0,0,0,0,79
+1919,indian_children_in_public|total,144,59,57,0,800,231,40,37,109,331,0,40
+1919,indian_children_in_school|total,313,74,224,163,923,485,132,97,321,477,167,271
+1919,eligible_children_not_in_school ,6,23,111,0,0,17,25,68,63,405,0,204
+1920,indian_population,1132,1137,1119,1041,0,2698,671,652,1257,2917,0,2919
+1920,total_number_of_school_age_children,379,128,366,191,64,489,181,185,474,893,81,430
+1920,ineligible_for_school_attendance,33,20,38,36,0,23,8,30,42,173,0,22
+1920,number_eligible_for_attendance,346,108,328,155,64,466,173,155,432,720,81,408
+1920,indian_children_in_govt-school|nonreservation_boarding,52,27,63,13,64,69,7,7,16,49,81,39
+1920,indian_children_in_govt-school|reservation_boarding,92,0,0,112,0,0,0,0,194,77,0,0
+1920,indian_children_in_govt-school|day,45,0,40,15,0,134,110,51,25,0,0,99
+1920,indian_children_in_govt-school|total ,189,27,103,140,64,203,117,58,235,126,81,138
+1920,indian_children_in_mission/private|boarding,0,0,65,0,0,94,0,0,20,5,0,58
+1920,indian_children_in_mission/private|day  ,0,0,0,0,0,0,0,0,0,0,0,0
+1920,indian_children_in_mission/private|total ,0,0,65,0,0,94,0,0,20,5,0,58
+1920,indian_children_in_public|total,144,73,123,0,0,165,27,57,174,192,0,58
+1920,indian_children_in_school|total,333,100,291,140,64,462,144,115,429,323,81,254
+1920,eligible_children_not_in_school ,13,8,37,15,0,4,29,40,3,397,0,154
